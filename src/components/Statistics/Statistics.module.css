@@ -1,0 +1,24 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px auto 20px auto;
+  justify-content: center;
+  width: 400px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  margin: 0px;
+  height: 50px;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  margin: 0px;
+  list-style: none;
+  padding: 0px;
+}

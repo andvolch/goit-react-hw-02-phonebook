@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  width: 200px;
+  margin: 10px;
+  border: 1px solid blueviolet;
+  border-radius: 25px;
+  background-color: #fff;
+}
+
+.status {
+  position: absolute;
+
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.avatar {
+  margin-left: 50px;
+}
+
+.name {
+  margin-left: 20px;
+}
